@@ -11,7 +11,7 @@ const url = process.env.DATABASE_URL
 const app = express()
 app.use(express.json())
 app.use(cors({   //give the access from frontEnd
-    origin: ['http://localhost:3000', 'https://final-project-a19-frontend.vercel.app'],
+    origin: ['http://localhost:3000', 'https://a19-team-management-w1ax.vercel.app'],
     methods: ['GET', 'POST', 'DELETE', 'OPTIONS'],
     credentials: true,
     allowedHeaders: 'Content-Type,Authorization'
