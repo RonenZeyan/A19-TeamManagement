@@ -6,9 +6,14 @@ exist accounts you can Login :
 
     email                   password
 admin@gmail.com              admin
+
 ronen@gmail.com              ronen
+
 adham@gmail.com              adham
+
 daniella@gmail.com           daniella
+
 layan@gmail.com              layan
+
 haya@gmail.com               haya
 
